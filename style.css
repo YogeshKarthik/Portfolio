@@ -150,7 +150,7 @@ body {
     position: relative;
     width: 345px;
     height: 48px;
-    /*background: yellowgreen;*/
+    background: yellowgreen;
     justify-content: space-between;
     display: flex;
     border-radius: 10px;
@@ -168,7 +168,7 @@ body {
 /*     background:#FFA500; */
     animation: showRight 1s ease forwards;
     animation-delay: 1.9s;
-    z-index: 2;
+    z-index: -1;
 }
 
 .buttonbox a{
@@ -178,6 +178,7 @@ body {
     justify-content: center;
     align-items: center;
     width: 150px;
+    #081b29
     color: rgb(29, 27, 78);
     height: 100%;
     background: #00abf0;
