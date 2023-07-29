@@ -212,7 +212,8 @@ body {
     background: black;
     
 /*     Line below was changed from -1 to 1 */
-    z-index: 1;
+/*     Line below was changed from 1 to -1 */
+    z-index: -1;
     /* This*/
     transition: 1s;
 
