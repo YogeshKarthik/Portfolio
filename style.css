@@ -151,6 +151,7 @@ body {
     width: 345px;
     height: 48px;
 /*     background: yellowgreen; */
+    background:#000000;
     justify-content: space-between;
     display: flex;
     border-radius: 10px;
@@ -168,7 +169,7 @@ body {
 /*     background:#FFA500; */
     animation: showRight 1s ease forwards;
     animation-delay: 1.9s;
-    z-index: 1;
+    z-index: -1;
 }
 
 .buttonbox a{
@@ -188,7 +189,7 @@ body {
     font-size: 19px;
     font-weight: 900;
     letter-spacing: 1px;
-    z-index: 1;
+    z-index: 2;
     overflow: hidden;
     /*Overflowing content will be hidden*/
 
