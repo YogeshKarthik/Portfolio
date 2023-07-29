@@ -1,1 +1,2 @@
- https://yogeshkarthik.github.io/Portfolio/
+ yogeshkarthik.github.io
+ 
