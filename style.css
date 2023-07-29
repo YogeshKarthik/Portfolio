@@ -189,7 +189,7 @@ body {
     font-size: 19px;
     font-weight: 900;
     letter-spacing: 1px;
-    z-index: 2;
+    z-index: 1;
     overflow: hidden;
     /*Overflowing content will be hidden*/
 
