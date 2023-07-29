@@ -194,8 +194,8 @@ body {
 }
 
 .buttonbox a:hover {
-    /* background: rgb(29, 27, 78); */
-    background:orange;
+    background: rgb(29, 27, 78);
+/*     background:orange; */
     transition: 1s;
     color: aquamarine;
 }
